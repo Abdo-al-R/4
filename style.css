@@ -1,0 +1,49 @@
+
+*{
+    text-align: center;
+    margin: 0;
+    border-radius: 10px;
+
+}
+body{
+
+    background-image: url("Whatsapp\ Wallpapers\ \ \ Top\ Whatsapp\ Backgrounds\ \ \ WallpaperAccess.jpg")
+
+}
+nav , footer {
+    padding: 20px;
+    color: whitesmoke;
+    background-color: rgb(207, 2, 2);
+    border-radius: 0;
+    }
+
+main,section,article{
+        margin: auto;
+        width: 40%;
+        border : 2px solid rgb(121, 0, 151);
+        background-color: rgb(190, 211, 251);
+      }
+    
+
+form{
+    width:40%;
+    margin: auto;
+}        
+
+img {
+    width: 100%;
+}
+
+h2,h3{
+    padding: 7px;
+    background-color: rgb(10, 67, 190);
+    color:rgb(255, 255, 255);
+}
+h3{
+    width: 30%;
+    margin: auto;
+}
+a{
+    padding: 20px;
+    color: whitesmoke;
+}
